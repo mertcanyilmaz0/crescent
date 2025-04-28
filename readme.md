@@ -19,3 +19,6 @@ Modelin Doğruluk Oranı:
 Bütün Modellerin Ortalama
 Hata Payı:
 Modelin Doğruluk Oranı:
+
+pyinstaller --onefile --windowed app.py
+Masaüstü Uygulaması yap bunla
